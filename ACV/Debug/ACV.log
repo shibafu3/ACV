@@ -1,0 +1,85 @@
+﻿2017/07/26 18:34:26 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\0133752\Documents\Visual Studio 2013\Projects\ACV\ACV\ACV.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     1>c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     1>c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(44): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(46): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(49): warning C4244: '初期化中' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(55): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(60): warning C4244: '初期化中' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(66): warning C4244: '初期化中' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(72): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(77): warning C4244: '初期化中' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(83): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(88): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(93): warning C4244: '初期化中' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(99): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(104): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(115): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(116): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(122): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(123): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(126): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(127): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(133): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(134): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(138): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(139): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(145): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(146): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(152): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(153): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(159): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(160): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(164): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(165): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(171): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(172): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(178): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(179): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(185): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(186): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(192): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(193): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(198): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(199): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(204): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(205): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(208): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(209): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(212): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(213): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(216): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(217): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(221): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(222): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(225): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(226): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(229): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(230): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(233): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(234): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(238): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(239): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(242): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(243): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(246): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(247): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(250): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(251): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(257): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(260): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(264): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\acv\acv\acv.hpp(267): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\0133752\Documents\Visual Studio 2013\Projects\ACV\Debug\ACV.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\0133752\Documents\Visual Studio 2013\Projects\ACV\Debug\ACV.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\0133752\Documents\Visual Studio 2013\Projects\ACV\Debug\ACV.lib" /MACHINE:X86 Debug\main.obj
+         ACV.vcxproj -> C:\Users\0133752\Documents\Visual Studio 2013\Projects\ACV\Debug\ACV.exe
+     1>プロジェクト "C:\Users\0133752\Documents\Visual Studio 2013\Projects\ACV\ACV\ACV.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.28
